@@ -1,21 +1,17 @@
-# Welcome to RentApp!
+# simple-blood-bank-management-system-in-php
+Brief overview of the technology:
+Front end: HTML, CSS, JavaScript
 
-**RentApp is a web app for a car business owners who wants to list his cars on his website and allow the user to come to his site and browse through all of his latest cars and featured cars, search and filter the cars by model or price, and make some inquiries about his cars that are out for the rent.**
+HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
+CSS : (Cascading Style Sheets) Create attractive Layout
+Bootstrap : responsive design mobile freindly site
+JavaScript: it is a programming language, commonly use with web browsers.
+Back end: PHP, MySQL
 
-
-# **Technologies used**
-
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Bootstrap**
-- **Django**
-- **PostgreSQL**
-- **Heroku**
-
-## Authentication
-
-- **Facebook**
-- **Google**
-
-See Live [check out the **project page** ⚡️](https://)
+PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.
+MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
+Software Requirement(any one)
+WAMP Server
+XAMPP Server
+MAMP Server
+LAMP Server
