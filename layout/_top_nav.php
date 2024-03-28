@@ -28,7 +28,7 @@
                         ?>"><a href="donor.php">New Donor</a></li>
                         
                         <li class="<?php if(isset($setMemberActive)) { echo $setMemberActive; } else { echo ''; } ?>">
-                            <a href="members.php">Developer</a>
+                            <a href="members.php">Members</a>
                         </li>
 <!--                        <li class="<?php //if(isset($setBloodRequestActive)){ echo $setBloodRequestActive; } else { echo ''; } ?>">
                             <a href="blood_request.php">Blood Requests</a>
